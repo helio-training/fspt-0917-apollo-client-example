@@ -1,0 +1,29 @@
+{
+
+  "schema": {
+    "request": {
+      "url" : "https://api.graph.cool/simple/v1/cj9bi3ihz423e0132laol68zu",
+      "method" : "POST",
+      "postIntrospectionQuery" : true,
+      "options" : {
+        "headers": {
+          "user-agent" : "JS GraphQL"
+        }
+      }
+    }
+
+  },
+
+  "endpoints" : [
+    {
+      "name": "Default (https://api.graph.cool/simple/v1/cj9bi3ihz423e0132laol68zu)",
+      "url": "https://api.graph.cool/simple/v1/cj9bi3ihz423e0132laol68zu",
+      "options" : {
+        "headers": {
+          "user-agent" : "JS GraphQL"
+        }
+      }
+    }
+  ]
+
+}
